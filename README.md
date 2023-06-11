@@ -3,7 +3,7 @@
 
 
 -  Im 3v, but most of you know me as bptisteg.
--  I'm a game developer focused on C, C++ I also develop websites in HTML and CSS. 
+-  I'm a game developer focused on C, C++
 -  I also create bots on Discord
 
 ## __Here are a few main projects I have programmed and contributed to :__
