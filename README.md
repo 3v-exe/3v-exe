@@ -21,12 +21,5 @@ https://truckersmp.com/vtc/1
 ![image](https://github.com/3v-exe/3v-exe/assets/123122023/7da11d2f-fd34-42f6-81e8-78b8e52c21df)
 
 
-  https://cdn.discordapp.com/attachments/1063958014970822736/1135287440261779498/ets2_20230730_200011_00.png
-  
-
-
-
-
-
-
+![image](https://github.com/3v-exe/3v-exe/assets/123122023/2277a025-4282-4620-8f59-04db72f2e84e)
 
