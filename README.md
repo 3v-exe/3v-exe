@@ -6,17 +6,15 @@
 -  I'm a game developer focused on C, C++
 -  I also create bots on Discord
 
-## __Here are a few main projects I have programmed and contributed to :__
-
-
-
-https://truckersmp.com/ - I take care of the management and the images displayed on the site
-
 ## __My Profil on TMP__
 
 https://truckersmp.com/vtc/1 / 
 https://truckersmp.com/user/31812
 
+## __Here are a few main projects I have programmed and contributed to :__
+
+
+https://truckersmp.com/ - I take care of the management and the images displayed on the site
 
 
 *I have developed this certified discord bot for managing the discord server and also for managing documentation on ads, updates and more for TruckersMP.*
