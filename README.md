@@ -12,9 +12,9 @@
 
 https://truckersmp.com/ - I take care of the management and the images displayed on the site
 
-##__My Profil on TMP__
+## __My Profil on TMP__
 
-https://truckersmp.com/vtc/1
+https://truckersmp.com/vtc/1 / 
 https://truckersmp.com/user/31812
 
 
