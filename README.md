@@ -1,5 +1,5 @@
 
- ## Hi there ! ![image](https://github.com/3v-exe/3v-exe/assets/123122023/fc98f226-9dc0-4419-8ca2-e730a8c1f535)
+ ## Hi there !
 
 
 
