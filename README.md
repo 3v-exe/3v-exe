@@ -2,7 +2,7 @@
  ## Hi there !
 
 
--  Im 3v, but most of you know me as bptisteg.
+-  I'm ^3v, but most of you know me as bptisteg.
 -  I'm a game developer focused on C, C++
 -  I also create bots on Discord
 
@@ -12,8 +12,11 @@
 
 https://truckersmp.com/ - I take care of the management and the images displayed on the site
 
+##__My Profil on TMP__
 
 https://truckersmp.com/vtc/1
+https://truckersmp.com/user/31812
+
 
 
 *I have developed this certified discord bot for managing the discord server and also for managing documentation on ads, updates and more for TruckersMP.*
