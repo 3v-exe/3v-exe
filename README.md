@@ -7,7 +7,7 @@
 -  I'm a game developer and also a developer Discord, I generally take care of bot discord creation for French or English community servers concerning server management.
 -  I create bots on Discord
 
-![image](https://github.com/3v-exe/3v-exe/assets/123122023/11832e93-36bf-4a36-a01f-1f3b1d552f75)
+![c-sharp-c-logo-02F17714BA-seeklogo com](https://github.com/3v-exe/3v-exe/assets/123122023/a4c22793-f47b-4f90-85ac-1f07a0d84bfb)
 
 
 ## __My Profil on TMP__
