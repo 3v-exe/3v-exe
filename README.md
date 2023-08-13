@@ -8,6 +8,8 @@
 -  I create bots on Discord
 
 ![c-sharp-c-logo-02F17714BA-seeklogo com](https://github.com/3v-exe/3v-exe/assets/123122023/a4c22793-f47b-4f90-85ac-1f07a0d84bfb)
+![nodejs-logo-FBE122E377-seeklogo com](https://github.com/3v-exe/3v-exe/assets/123122023/411c2477-9ee3-4785-981a-baa17cd8223d)
+
 
 
 ## __My Profil on TMP__
