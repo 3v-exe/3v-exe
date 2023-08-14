@@ -19,6 +19,9 @@
 https://truckersmp.com/vtc/1 / 
 https://truckersmp.com/user/31812
 
+![image](https://github.com/3v-exe/3v-exe/assets/123122023/f2a37577-32f8-4108-beab-d2b10ab0a979)
+
+
 ## __Here are a few main projects I have programmed and contributed to :__ 🚨
 
 - Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories and vehicles
