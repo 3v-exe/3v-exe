@@ -7,17 +7,19 @@
 -  I'm a game developer and also a developer Discord, I generally take care of bot discord creation for French or English community servers concerning server management.
 -  I create bots on Discord
 
+## __Language I use most__ 🔧
+
 ![c-sharp-c-logo-02F17714BA-seeklogo com](https://github.com/3v-exe/3v-exe/assets/123122023/a4c22793-f47b-4f90-85ac-1f07a0d84bfb)
 ![nodejs-logo-FBE122E377-seeklogo com](https://github.com/3v-exe/3v-exe/assets/123122023/411c2477-9ee3-4785-981a-baa17cd8223d)
 ![python-logo-only](https://github.com/3v-exe/3v-exe/assets/123122023/88808f5d-c6da-47ca-818f-25d2d6380b2d)
 
 
-## __My Profil on TMP__
+## __My Profil on TMP__ 🎮
 
 https://truckersmp.com/vtc/1 / 
 https://truckersmp.com/user/31812
 
-## __Here are a few main projects I have programmed and contributed to :__
+## __Here are a few main projects I have programmed and contributed to :__ 🚨
 
 - Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories and vehicles
 
@@ -27,7 +29,7 @@ https://truckersmp.com/user/31812
 
 
 
-## __My creation for TruckersMP, team add-on :__
+## __My creation for TruckersMP, team add-on :__ 🔒
 ![image](https://github.com/3v-exe/3v-exe/assets/123122023/8ba2559b-71c7-4622-877f-9199beaf50ee)
 ![image](https://github.com/3v-exe/3v-exe/assets/123122023/78da3b74-c58b-4b8d-aa71-199baa066b6a)
 ![image](https://github.com/3v-exe/3v-exe/assets/123122023/2277a025-4282-4620-8f59-04db72f2e84e)
