@@ -14,10 +14,9 @@
 ![python-logo-only](https://github.com/3v-exe/3v-exe/assets/123122023/88808f5d-c6da-47ca-818f-25d2d6380b2d)
 
 
-## __My Profil on TMP__ 🎮
+## __My project on TMP__ 🎮
 
-https://truckersmp.com/vtc/1 / 
-https://truckersmp.com/user/31812
+https://truckersmp.com/vtc/1 
 
 ![image](https://github.com/3v-exe/3v-exe/assets/123122023/f2a37577-32f8-4108-beab-d2b10ab0a979)
 
