@@ -28,7 +28,7 @@
 ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎‎╚> Responsible for creating official modifications for **TruckersMP** such as map edits, skins, accessories and vehicles.
 
 ![image](https://github.com/3v-exe/3v-exe/assets/123122023/03f945c4-fc20-4364-bef0-3ff140cbfe9d)
-‎╚> I usually take care of server maintenance 
+ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎‎╚> I usually take care of server maintenance 
 
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎![image](https://github.com/3v-exe/3v-exe/assets/123122023/f2a37577-32f8-4108-beab-d2b10ab0a979)
 
