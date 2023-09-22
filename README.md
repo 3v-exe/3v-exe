@@ -1,40 +1,46 @@
+## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ Hi there ! 👋
 
-  ## Hi there ! 👋
-  If you are here to know a little bit more about me, you're in the right place. Let's start!
+  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ If you are here to know a little bit more about me, you're in the right place. Let's start!
 
-                                                             
+  ‎ ‎ 
+  ‎ 
+  ‎ 
+  ‎ 
+  
 
--  I'm ^3v, but most of you know me as bptisteg.
--  I'm a game developer and also a developer Discord, I generally take care of bot discord creation for French or English community servers concerning server management.
--  I create bots on Discord
+## `👀`  Who am I ?                                                            
+> Hello, I'm ^3v, most of you know me as **BptisteG**.
+> I'm a game developer and also a developer Discord, I generally take care of bot discord creation for French or English community servers concerning server management.
 
-## __Language I use most__ 🔧
-
-![c-sharp-c-logo-02F17714BA-seeklogo com](https://github.com/3v-exe/3v-exe/assets/123122023/a4c22793-f47b-4f90-85ac-1f07a0d84bfb)
-![nodejs-logo-FBE122E377-seeklogo com](https://github.com/3v-exe/3v-exe/assets/123122023/411c2477-9ee3-4785-981a-baa17cd8223d)
-![python-logo-only](https://github.com/3v-exe/3v-exe/assets/123122023/88808f5d-c6da-47ca-818f-25d2d6380b2d)
-
-
-## __My Team VTC on TMP__ 🎮
-
-- https://truckersmp.com/vtc/1 
-
-- Website on TruckersMP : https://tmpp-henna.vercel.app/api/TruckersMP
-
-![image](https://github.com/3v-exe/3v-exe/assets/123122023/f2a37577-32f8-4108-beab-d2b10ab0a979)
+## `🛠️`  __Languages and extensions :__ 
 
 
-## __Here are a few main projects I have programmed and contributed to :__ 🚨
-
-- Responsible for creating official modifications for TruckersMP such as map edits, skins, accessories and vehicles
-
-*I have developed this certified discord bot for managing the discord server and also for managing documentation on ads, updates and more for TruckersMP.*
-
-![image](https://github.com/3v-exe/3v-exe/assets/123122023/7da11d2f-fd34-42f6-81e8-78b8e52c21df)
+![image](https://github.com/3v-exe/3v-exe/assets/123122023/5c43e55e-04d8-413a-9625-13a81fc6e1f7)
+![image](https://github.com/3v-exe/3v-exe/assets/123122023/db9f0f77-ce11-42c9-8446-4b618c61b261)
+![image](https://github.com/3v-exe/3v-exe/assets/123122023/d4ad6318-bd62-4342-b8d1-87e0da966b85)
+![image](https://github.com/3v-exe/3v-exe/assets/123122023/65b52dae-c93e-406a-87a1-9ef30390de96)
+![image](https://github.com/3v-exe/3v-exe/assets/123122023/8749da1f-9cf6-407e-b873-2625ab0e19db)
 
 
+## `🎮` __What I do :__ 
 
-## __My creation for TruckersMP, team add-on :__ 🔒
+> Responsible for creating official modifications for **TruckersMP** such as map edits, skins, accessories and vehicles.
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎‎‎‎‎I usually take care of server maintenance 
+
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎![image](https://github.com/3v-exe/3v-exe/assets/123122023/f2a37577-32f8-4108-beab-d2b10ab0a979)
+
+
+## `🚨` __Developement on Discord :__
+
+> *I have developed this **certified** discord bot for managing the discord server and also for managing documentation on ads, updates, annoucement and more for TruckersMP.*
+
+
+‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎![image](https://github.com/3v-exe/3v-exe/assets/123122023/a03bc293-dedd-438d-a89f-ccfbcb612361)
+
+
+
+## `🔒` __My creation for TruckersMP, team add-on :__
 ![image](https://github.com/3v-exe/3v-exe/assets/123122023/8ba2559b-71c7-4622-877f-9199beaf50ee)
 ![image](https://github.com/3v-exe/3v-exe/assets/123122023/78da3b74-c58b-4b8d-aa71-199baa066b6a)
 ![image](https://github.com/3v-exe/3v-exe/assets/123122023/2277a025-4282-4620-8f59-04db72f2e84e)
