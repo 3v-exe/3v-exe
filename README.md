@@ -1,7 +1,8 @@
 
- ## Hi there ! 👋
+                                                                                                                        ## Hi there ! 👋
+                                                                                  If you are here to know a little bit more about me, you're in the right place. Let's start!
 
-
+                                                             
 
 -  I'm ^3v, but most of you know me as bptisteg.
 -  I'm a game developer and also a developer Discord, I generally take care of bot discord creation for French or English community servers concerning server management.
