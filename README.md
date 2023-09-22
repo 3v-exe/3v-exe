@@ -1,6 +1,6 @@
 
-                                                                                                                        ## Hi there ! 👋
-                                                                                  If you are here to know a little bit more about me, you're in the right place. Let's start!
+  ## Hi there ! 👋
+  If you are here to know a little bit more about me, you're in the right place. Let's start!
 
                                                              
 
