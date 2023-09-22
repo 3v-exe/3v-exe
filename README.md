@@ -44,6 +44,9 @@
 
 ## `🔒` __My creation for TruckersMP, team add-on :__
 ![image](https://github.com/3v-exe/3v-exe/assets/123122023/8ba2559b-71c7-4622-877f-9199beaf50ee)
+![image](https://github.com/3v-exe/3v-exe/assets/123122023/2db62f88-e87d-484b-a8f3-c0d74444e004)
+![image](https://github.com/3v-exe/3v-exe/assets/123122023/d53bce07-a038-4e16-a126-ce740b6d7d8b)
+![image](https://github.com/3v-exe/3v-exe/assets/123122023/7ae96e6f-8140-447d-9d00-b63a1ef940f1)
 ![image](https://github.com/3v-exe/3v-exe/assets/123122023/78da3b74-c58b-4b8d-aa71-199baa066b6a)
 ![image](https://github.com/3v-exe/3v-exe/assets/123122023/2277a025-4282-4620-8f59-04db72f2e84e)
 ![image](https://github.com/3v-exe/3v-exe/assets/123122023/410bff3c-9e56-40c9-9471-2ceba1d31210)
