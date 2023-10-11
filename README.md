@@ -10,7 +10,13 @@
 
 ## `👀`  Who am I ?                                                            
 > Hello, I'm ^3v, most of you know me as **BptisteG**.
-> I'm a game developer and also a developer Discord, I generally take care of bot discord creation for French or English community servers concerning server management.
+
+
+> I'm a game developer for the TruckersMP game extension and also a developer Discord, I generally take care of bot discord creation for French or English community servers concerning server management.
+
+
+> I'm also in charge of bot maintenance and ticket fluidity on the TicketTool support server.
+
 
 ## `🛠️`  __Languages and extensions :__ 
 
