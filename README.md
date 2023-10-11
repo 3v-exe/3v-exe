@@ -9,7 +9,7 @@
   
 
 ## `👀`  Who am I ?                                                            
-> Hello, I'm ^3v, most of you know me as **BptisteG**.
+> Hello, I'm <a href="https://truckersmp.com/vtc/1">^3v.</a>, most of you know me as **BptisteG**.
 
 
 > I'm a game developer for the <a href="https://truckersmp.com/">TruckersMP</a> game extension and also a developer Discord, I generally take care of bot discord creation for French or English community servers concerning server management.
