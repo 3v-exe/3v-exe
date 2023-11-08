@@ -15,8 +15,6 @@
 > I'm a game developer for the <a href="https://truckersmp.com/">TruckersMP</a> game extension and also a developer Discord, I generally take care of bot discord creation for French or English community servers concerning server management.
 
 
-> I'm also in charge of bot maintenance and ticket fluidity on the <a href="https://discord.gg/tickettool">Ticket Tool support server</a>
-
 
 ## `🛠️`  __Languages and extensions :__ 
 
@@ -38,7 +36,7 @@
 
 ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎![image](https://github.com/3v-exe/3v-exe/assets/123122023/f2a37577-32f8-4108-beab-d2b10ab0a979)
 
-![image](https://github.com/3v-exe/3v-exe/assets/123122023/d86d2f4b-be82-4aa2-bac2-d69c942ed7c4)
+
 
 
 ## `🚨` __Developement on Discord :__
