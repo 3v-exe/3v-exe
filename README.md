@@ -2,9 +2,9 @@
 
   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ If you are here to know a little bit more about me, you're in the right place. Let's start!
 
-  ‎ ‎https://media.discordapp.net/attachments/307488652701728769/1105155315432960151/ReplicationFrameworkTruckersMP.png?width=1221&height=687
-  ‎ 
-  ‎ 
+  ‎ ‎
+  ‎ ![image](https://github.com/3v-exe/3v-exe/assets/123122023/9b6d6076-8570-4768-8d89-25aa8c119109)
+
   ‎ 
   
 
