@@ -2,7 +2,7 @@
 
   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎ If you are here to know a little bit more about me, you're in the right place. Let's start!
 
-  ‎ ‎ 
+  ‎ ‎ [https://cdn.discordapp.com/attachments/307488652701728769/1105155315432960151/ReplicationFrameworkTruckersMP.png?ex=655b7c17&is=65490717&hm=e164ef894091f2eadb4775de3855c5205c4d36ecd9db642d018d14e0ca3d2508&](https://cdn.discordapp.com/attachments/307488652701728769/1105155315432960151/ReplicationFrameworkTruckersMP.png?ex=655b7c17&is=65490717&hm=e164ef894091f2eadb4775de3855c5205c4d36ecd9db642d018d14e0ca3d2508&)
   ‎ 
   ‎ 
   ‎ 
